@@ -1,5 +1,5 @@
 # Vigorski
-This app will allow the user to check their Blood Pressure, Pulse rate and weight and get information on whether it is optimal or not and a lot more. There is a section on how much energy you require per day as well. Most figure are based on research by more than one set of professionals, so you see the results are in batches.
+Written during Covid-19 Lockdown to keep check of my own health this app will allow the user to check their Blood Pressure, Pulse rate and weight and get information on whether it is optimal or not and a lot more. There is a section on how much energy you require per day as well. Most figure are based on research by more than one set of professionals, so you see the results are in batches.
 
 This app was not made by a qualified health professional. The figures the app produces should only be taken as a guide. If you need accurate information, then you need to consult a qualified health professional.
 
